@@ -2,7 +2,7 @@
 Setup Prisma ORM in Next.js 13 with sqlite 
 
 Packages
-yarn add @prisma/client
+yarn add @prisma/client   
 yarn add -D prisma
 
 yarn prisma init --datasource-provider sqlite
